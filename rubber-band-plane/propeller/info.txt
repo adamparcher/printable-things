@@ -1,0 +1,4 @@
+Propeller SCAD file from:
+http://www.thingiverse.com/thing:8178/#files
+
+Licensed under GNU GPL
